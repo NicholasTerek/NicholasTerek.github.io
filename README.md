@@ -1,2 +1,3 @@
 # NicholasTerek.github.io
-This is my 
+This is my personal website
+
