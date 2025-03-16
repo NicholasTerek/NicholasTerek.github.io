@@ -1,7 +1,5 @@
 # NicholasTerek.github.io
-This is my personal website
+This is my old personal website
 
-
-
-https://github.com/user-attachments/assets/a1e08dc6-7646-4880-ac12-c608283f71a0
+https://github.com/user-attachments/assets/e0f71f91-6635-44cc-a8a9-f1d4e9b32d71
 
